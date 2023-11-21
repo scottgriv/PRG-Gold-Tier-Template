@@ -35,6 +35,8 @@
     - This is optional, but highly recommended especially for **Gold** projects.
     - Animations in the form of GIFs are also a great way to showcase your project.
 
+---------------
+
 ## Table of Contents
 
 - [Features](#features)
