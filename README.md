@@ -19,21 +19,15 @@
 
 <h1 align="center"><img src="https://via.placeholder.com/22x22/FFD700/000000?text=+"> PRG Gold Tier Template</img></h1>
 
-<p align="center">
-    <img src="./docs/images/icon-rounded.png" width="100" height="100"/>
-    <br>
-    <i>This Template is part of the <a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines">Personal Repository Guidelines (PRG)</a> system.</i>
-</p>
-
 <div align="center">
 <table>
     <tr>
         <td>
             <p align="center">
                 <img src="./docs/images/icon-rounded.png" width="100" height="100"/>
-            </p>
             <br>
-            <i>This Template is part of the <a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines">Personal Repository Guidelines (PRG)</a> system.</i>
+            <i>This Template is part of the <br><a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines">Personal Repository Guidelines (PRG)</a> system.</i>
+            </p>
         </td>
     </tr>
 </table>
