@@ -36,7 +36,6 @@
 </table>
 </div>
 
-
 > [!NOTE]
 > I will be using examples from my **Gold** tier project [River Charts](https://github.com/scottgriv/River-Charts) for this `README`.
 
