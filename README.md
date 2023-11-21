@@ -19,10 +19,11 @@
 
 <h1 align="center"><img src="https://via.placeholder.com/22x22/FFD700/000000?text=+"> PRG Gold Tier Template</img></h1>
 
-> [!NOTE]
-> <img src="./docs/images/icon-rounded.png" width="100" height="100"/>
->   <br>
->    <i>This Template is part of the <a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines">Personal Repository Guidelines (PRG)</a> system.</i>
+<p align="center">
+    <img src="./docs/images/icon-rounded.png" width="100" height="100"/>
+    <br>
+    <i>This Template is part of the <a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines">Personal Repository Guidelines (PRG)</a> system.</i>
+</p>
 
 > [!NOTE]
 > I will be using examples from my **Gold** tier project [River Charts](https://github.com/scottgriv/River-Charts) for this `README`.
@@ -146,10 +147,12 @@ This project is released under the terms of the **MIT License**, which permits u
 
 ## Credits
 
-**Author:** Scott Grivner <br>
-**Email:** scott.grivner@gmail.com <br>
+**Author:** [Scott Grivner](https://github.com/scottgriv) <br>
+**Email:** [scott.grivner@gmail.com](mailto:scott.grivner@gmail.com) <br>
 **Website:** [scottgrivner.dev](https://www.scottgrivner.dev) <br>
-**Reference:** [Main Branch](https://github.com/scottgriv/PRG-Personal-Repository-Guidelines) <br>
+**Reference:** [Main Branch](https://github.com/scottgriv/PRG-Gold-Tier-Template) <br>
+
+---------------
 
 <div align="center">
     <a href="https://github.com/scottgriv/PRG-Gold-Tier-Template" target="_blank">
