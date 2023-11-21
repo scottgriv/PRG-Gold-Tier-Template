@@ -21,22 +21,6 @@
 
 <div align="center">
 <table>
-    <tr>
-        <td>
-            <p align="center">
-                <img src="./docs/images/icon-rounded.png" width="100" height="100"/>
-            <br>
-            This Template is part of the <br><a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines">Personal Repository Guidelines (PRG)</a><br>
-            categorization system.
-            </p>
-            <b>Visit the Repository for more information</b>
-        </td>
-    </tr>
-</table>
-</div>
-
-<div align="center">
-<table>
 <tr>
 <td>
     <div align="center">
@@ -47,6 +31,7 @@
     <li>This Template is part of the <a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines">Personal Repository Guidelines (PRG)</a> repository categorization system.</li>
     <li><b>Visit the PRG Repository for more information</b></li>
 </ul>
+<img width="1000" height="0">
 </td>
 </tr>
 </table>
