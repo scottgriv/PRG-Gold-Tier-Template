@@ -37,7 +37,7 @@
 </div>
 
 > [!NOTE]
-> I will be using examples from my **Gold** tier project [River Charts](https://github.com/scottgriv/River-Charts) for this `README`.
+> I will be using examples from my project [River Charts](https://github.com/scottgriv/River-Charts) for this `README`.
 
 - The description should be a short paragraph describing what your project is and what it does.
 - This should be the first section after the badges.
