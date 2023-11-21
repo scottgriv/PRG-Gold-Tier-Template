@@ -29,7 +29,9 @@
 <table>
     <tr>
         <td>
-            <img src="./docs/images/icon-rounded.png" width="100" height="100"/>
+            <p align="center">
+                <img src="./docs/images/icon-rounded.png" width="100" height="100"/>
+            </p>
             <br>
             <i>This Template is part of the <a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines">Personal Repository Guidelines (PRG)</a> system.</i>
         </td>
