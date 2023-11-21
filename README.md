@@ -25,6 +25,14 @@
     <i>This Template is part of the <a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines">Personal Repository Guidelines (PRG)</a> system.</i>
 </p>
 
+<div align="center">
+<table>
+    <tr>
+        <td>A</td>
+    </tr>
+</table>
+</div>
+
 > [!NOTE]
 > I will be using examples from my **Gold** tier project [River Charts](https://github.com/scottgriv/River-Charts) for this `README`.
 
