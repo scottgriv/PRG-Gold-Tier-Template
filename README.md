@@ -35,18 +35,22 @@
 </table>
 </div>
 
+<div align="center">
 <table>
 <tr>
 <td>
-<a href="#banner"><img align="left" src="./docs/images/icon-rounded.png" width="150"></a>
+    <div align="center">
+        <a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines"><img align="left" src="./docs/images/icon-rounded.png" width="150"></a>
+    </div>
 <h3>What is this Template for?</h3>
 <ul>
-    <li>This Template is part of the <a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines">Personal Repository Guidelines (PRG)</a> system.</li>
+    <li>This Template is part of the <a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines">Personal Repository Guidelines (PRG)</a> repository categorization system.</li>
+    <li><b>Visit the PRG Repository for more information</b></li>
 </ul>
-<img width="1000" height="0">
 </td>
 </tr>
 </table>
+</div>
 
 
 > [!NOTE]
