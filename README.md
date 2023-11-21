@@ -26,12 +26,28 @@
             <p align="center">
                 <img src="./docs/images/icon-rounded.png" width="100" height="100"/>
             <br>
-            <i>This Template is part of the <br><a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines">Personal Repository Guidelines (PRG)</a> system.</i>
+            This Template is part of the <br><a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines">Personal Repository Guidelines (PRG)</a><br>
+            categorization system.
             </p>
+            <b>Visit the Repository for more information</b>
         </td>
     </tr>
 </table>
 </div>
+
+<table>
+<tr>
+<td>
+<a href="#banner"><img align="left" src="./docs/images/icon-rounded.png" width="150"></a>
+<h3>What is this Template for?</h3>
+<ul>
+    <li>This Template is part of the <a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines">Personal Repository Guidelines (PRG)</a> system.</li>
+</ul>
+<img width="1000" height="0">
+</td>
+</tr>
+</table>
+
 
 > [!NOTE]
 > I will be using examples from my **Gold** tier project [River Charts](https://github.com/scottgriv/River-Charts) for this `README`.
