@@ -20,6 +20,11 @@
 <h1 align="center"><img src="https://via.placeholder.com/22x22/FFD700/000000?text=+"> PRG Gold Tier Template</img></h1>
 
 > [!NOTE]
+> <img src="./docs/images/icon-rounded.png" width="100" height="100"/>
+>   <br>
+>    <i>This Template is part of the <a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines">Personal Repository Guidelines (PRG)</a> system.</i>
+
+> [!NOTE]
 > I will be using examples from my **Gold** tier project [River Charts](https://github.com/scottgriv/River-Charts) for this `README`.
 
 - The description should be a short paragraph describing what your project is and what it does.
