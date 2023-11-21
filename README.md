@@ -31,7 +31,6 @@
     <li>This Template is part of the <a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines">Personal Repository Guidelines (PRG)</a> repository categorization system.</li>
     <li><b>Visit the PRG Repository for more information</b></li>
 </ul>
-<img width="1000" height="0">
 </td>
 </tr>
 </table>
