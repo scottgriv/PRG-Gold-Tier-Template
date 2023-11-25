@@ -64,11 +64,16 @@
 
 - [Features](#features)
 - [Background Story](#background-story)
+- [Definitions](#definitions)
 - [Getting Started](#getting-started)
+    - [Dependencies](#dependencies)
+    - [Configuration](#configuration)
+    - [Installation](#installation)
+    - [Deployment](#deployment)
+- [Specific Project Sections](#specific-project-sections)
 - [What's Inside?](#whats-inside)
 - [Closing](#closing)
 - [What's Next?](#whats-next)
-- [Specific Project Sections](#specific-project-sections)
 - [Project](#project)
 - [Contributing](#contributing)
 - [Resources](#resources)
@@ -83,9 +88,33 @@ This section should contain a list of features that your project has.
 
 The background story should be a short paragraph describing why you created the project and what inspired you to create it.
 
+## Definitions
+
+This section should contain a list of definitions for any terms that you use throughout your `README`.
+- This is especially useful for technical terms that the reader may not be familiar with.
+- e.g. Here are some definitions to help you understand the terminology used in this document:
+    - <ins><b>USGS</b></ins>: The United States Geological Survey. The USGS is a science organization that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.
+        - [USGS](https://www.usgs.gov/)
+    - <ins><b>Gage Height</b></ins>: The height of the water surface above the gage datum (zero point). Gage height is often used interchangeably with the more general term, stage, although gage height is more appropriate when used with a gage reading. Stage is more appropriate when used with a recorded or calculated gage height.
+        - [Gage Height](https://waterdata.usgs.gov/blog/gage_height/)
+
 ## Getting Started
 
 This section should contain a list of steps to get your project up and running.
+- You can break this section down into further subsections if you want (such as below: Dependencies, Configuration, Running Locally, Deployment, etc.).
+- Otherwise, you can just include a list of steps to get your project up and running under Getting Started.
+
+### Dependencies
+
+- This section should contain a list of dependencies for your project.
+
+### Configuration
+
+- This section should contain a list of steps to configure your project.
+
+### Installation
+
+- This section should contain a list of steps to install your project.
 - Utilize code blocks to show the commands needed to run your project.
 - e.g.
     1. Clone this repository.
@@ -95,6 +124,10 @@ This section should contain a list of steps to get your project up and running.
         ```bash
         python manage.py runserver
         ```
+
+### Deployment
+
+- This section should contain a list of steps to deploy your project.
 
 ## What's Inside?
 
