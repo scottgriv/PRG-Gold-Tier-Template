@@ -40,7 +40,7 @@
                             <p><b><a href="https://github.com/scottgriv/PRG-Platinum-Tier-Template">Platinum Tier Template</a></b></p>
                         </td>
                         <td align="center">
-                        <p align="center"><i>You are here.</i></p>
+                        <p align="center"><i>You are here</i></p>
                             <a href="https://github.com/scottgriv/PRG-Gold-Tier-Template"><img src="./docs/images/icon-gold-rounded.png" width="100"></a>
                             <br>
                             <p><b><a href="https://github.com/scottgriv/PRG-Gold-Tier-Template">Gold Tier Template</a></b></p>
